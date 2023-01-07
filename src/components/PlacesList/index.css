@@ -1,0 +1,31 @@
+.list-items {
+  list-style-type: none;
+  background-color: #ffffff;
+  width: 500px;
+  height: 500px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
+
+.image {
+  width: 500px;
+  height: 300px;
+}
+
+.place-name {
+  font-family: 'roboto';
+  font-weight: bold;
+  color: #334155;
+  font-size: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.description {
+  font-family: 'roboto';
+  font-weight: 500;
+  color: #64748b;
+  font-size: 16px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
