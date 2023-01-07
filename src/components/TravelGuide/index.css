@@ -5,6 +5,12 @@
   padding: 30px;
 }
 
+@media screen and (max-width: 767px) {
+  .app-container {
+    width: 100%;
+  }
+}
+
 .main-heading {
   font-family: 'roboto';
   font-weight: bold;

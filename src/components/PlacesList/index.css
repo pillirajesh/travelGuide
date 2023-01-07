@@ -12,6 +12,23 @@
   height: 300px;
 }
 
+@media screen and (max-width: 767px) {
+  .image {
+    width: 400px;
+    height: 250px;
+  }
+
+  .list-items {
+    list-style-type: none;
+    background-color: #ffffff;
+    width: 400px;
+    min-height: 450px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
+
 .place-name {
   font-family: 'roboto';
   font-weight: bold;
